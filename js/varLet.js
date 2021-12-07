@@ -44,3 +44,10 @@ console.log(c);
 console.log( 5 == '5');     //값만 취급:true
 console.log( 5 === '5');    //값과 타입까지 함께 취급:false
 
+console.log("=====================")
+let car;
+car = undefined;
+console.log(typeof car);
+
+
+
